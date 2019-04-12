@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:3:5-29
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:5:5-30
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:4:5-30
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:9:22-76
+application
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:11:5-23:19
+activity#io.vov.vitamio.activity.RecyActivity
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:12:19-56
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:13:9-18:63
+	android:launchMode
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:16:13-43
+	android:windowSoftInputMode
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:18:13-60
+	android:configChanges
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:15:13-113
+	android:theme
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:17:13-60
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:14:13-50
+activity#io.vov.vitamio.activity.LYActivity
+ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:19:9-22:46
+	android:launchMode
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:22:13-43
+	android:configChanges
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:21:13-113
+	android:name
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml:20:13-48
+uses-sdk
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		ADDED from D:\VitamoDame\vitamio\AndroidManifest.xml
+		INJECTED from D:\VitamoDame\vitamio\AndroidManifest.xml
